@@ -22,24 +22,24 @@ CampVerse, the ingenious portmanteau of "campus" and "multiverse," represents a 
 
 ### :wrench: Tools and Technology
 
-#### Frontend
-- [ReactJS](https://reactjs.org/)
-- CSS3
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Material UI](https://material-ui.com/)
+### Frontend
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-#### Backend
-- [NodeJS](https://nodejs.org/)
-- [ExpressJS](https://expressjs.com/)
+### Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### Database
-- [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/)
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-#### Design Tools
-- [Figma](https://www.figma.com/)
-- [Canva](https://www.canva.com/)
-- [Pinterest](https://www.pinterest.com/)
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)
 
 CampVerse leverages this powerful stack of frontend and backend technologies, along with design tools, to create a dynamic and engaging platform that facilitates seamless interactions and knowledge sharing within the BMS student community. By embracing the latest web development technologies and design principles, CampVerse ensures a smooth and delightful user experience for students, alumni, and mentors alike.
 
@@ -85,6 +85,7 @@ npm install
 
 ```
 cd ../database
+```
 
 # Instructions for setting up the MongoDB database
 
@@ -153,7 +154,6 @@ To set up a MongoDB database in an Express.js application, you'll need to follow
 
 Remember to properly handle errors, implement security measures, and follow best practices when deploying your Express.js application with MongoDB. You might also want to consider using a middleware like `body-parser` to handle request bodies and `dotenv` to manage environment variables securely.
 
-```
 
 4. Start the development server:
 
@@ -170,26 +170,11 @@ npm start
 
 ### :framed_picture: Project Snapshots
 
-### About
-![alt](./images/About.png)
-
-### Developers
-![alt](./images/Developers.jpg)
-
-### EventsPage
-![alt](./images/EventsPage.jpg)
-
 ### Forumpage
 ![alt](./images/Forumpage.png)
 
-### Home
-![alt](./images/Home.jpg)
-
-### Login
-![alt](./images/Login.png)
-
-### Payment
-![alt](./images/Payment.png)
+### ResourcesPage
+![alt](./images/ResourcesPage.png)
 
 ### pdfPage
 ![alt](./images/pdfPage.png)
@@ -197,9 +182,23 @@ npm start
 ### Placements
 ![alt](./images/Placements.png)
 
-### ResourcesPage
-![alt](./images/ResourcesPage.png)
+### EventsPage
+![alt](./images/EventsPage.jpg)
 
+### Payment
+![alt](./images/Payment.png)
+
+### Home
+![alt](./images/Home.jpg)
+
+### Login
+![alt](./images/Login.png)
+
+### About
+![alt](./images/About.png)
+
+### Developers
+![alt](./images/Developers.jpg)
 
 <br/>
 <br/>
